@@ -20,41 +20,65 @@ The dataset contains 100 sales records from January to April 2026, including pro
 
 Excel Skills Demonstrated
 •	Data Cleaning and Organization
+
 •	Professional Workbook Formatting
+
 •	Sort and Filter Operations
+
 •	Conditional Formatting
+
 •	Revenue Analysis
+
 •	Sales Trend Analysis
+
 •	Business Intelligence Reporting
+
 •	Data Visualization
 
 	Key Findings
-•	Frozen Chicken Box generated the highest revenue in the dataset.
+
 •	Rice Bag 50kg was the best-performing product within the Food category.
+
 •	Tamale emerged as the highest-performing region due to strong Frozen Chicken Box sales.
+
 •	Linda Arthur managed the most profitable product line.
+
 •	Revenue performance was influenced more by product pricing than by sales volume alone.
 
 	Recommendations
 •	Increase inventory and promotional efforts for Frozen Chicken Box.
+
 •	Replicate successful sales strategies from Tamale across other regions.
+
 •	Implement performance-sharing sessions among sales managers.
+
 •	Review pricing and marketing strategies for lower-performing products.
+
 •	Explore product bundling opportunities to increase overall sales.
 
 	Files Included
 •	FreshMart_Retail_Ghana_Sales_Analysis.xlsx
+
 •	Analysis_Report.pdf
+
 •	Screenshots/
+
 •	README.md
 
 	Tools Used
+
 o	Microsoft Excel
+
 o	Formatting
+
 o	Tables
+
 o	Sorting
+
 o	Filtering
+
 o	Conditional Formatting
+
 o	Business Analysis
 
 	Author
