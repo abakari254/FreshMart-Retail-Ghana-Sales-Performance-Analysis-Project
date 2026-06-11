@@ -7,13 +7,18 @@ The dataset contains 100 sales records from January to April 2026, including pro
 
 	Objectives
 •	Apply professional Excel formatting techniques.
+
 •	Perform data sorting and filtering.
+
 •	Use conditional formatting to identify trends and exceptions.
+
 •	Analyze product, regional, and sales manager performance.
+
 •	Generate business insights and recommendations.
+
 •	Create a portfolio-ready data analytics project.
 
-•	Excel Skills Demonstrated
+Excel Skills Demonstrated
 •	Data Cleaning and Organization
 •	Professional Workbook Formatting
 •	Sort and Filter Operations
