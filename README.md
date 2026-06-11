@@ -2,6 +2,7 @@
 This project applies professional formatting, sorting, filtering, and conditional formatting techniques to analyze 100 sales records. Key insights reveal top-performing products, regions, and sales managers, with actionable recommendations for business growth.
 
 	Overview
+
 The project analyzes sales performance data for FreshMart Retail Ghana using Microsoft Excel. The objective is to evaluate product performance, identify regional sales trends, assess sales manager effectiveness, and generate actionable business insights for management.
 The dataset contains 100 sales records from January to April 2026, including product information, regions, sales managers, units sold, revenue, and sales dates.
 
